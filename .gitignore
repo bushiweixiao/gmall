@@ -1,3 +1,8 @@
+# .idea文件夹，记得加/，。idea会变灰
+.idea/
+*.iml
+#gmall-admin target目录
+target/
 # Compiled class file
 *.class
 
